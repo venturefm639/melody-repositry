@@ -1,3 +1,3 @@
 # Demo
 
-learning git/github
+learning git/github/
